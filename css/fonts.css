@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Altform';
+    src: url('fonts/Altform-Regular.woff2') format('woff2'), 
+         url('fonts/Altform-Regular.woff') format('woff'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Altform';
+    src: url('fonts/Altform-SemiBold.woff2') format('woff2'), 
+         url('fonts/Altform-SemiBold.woff') format('woff'); 
+    font-weight: 600; 
+    font-style: normal;
+}
+
+/* ABCGravity Compressed Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-Compressed';
+    src: url('fonts/ABCGravity-Compressed-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-Compressed-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity Condensed Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-Condensed';
+    src: url('fonts/ABCGravity-Condensed-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-Condensed-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity Extended Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-Extended';
+    src: url('fonts/ABCGravity-Extended-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-Extended-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity Expanded Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-Expanded';
+    src: url('fonts/ABCGravity-Expanded-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-Expanded-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity ExtraCondensed Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-ExtraCondensed';
+    src: url('fonts/ABCGravity-ExtraCondensed-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-ExtraCondensed-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity Normal Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-Normal';
+    src: url('fonts/ABCGravity-Normal-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-Normal-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ABCGravity SemiCondensed Trial - Normal */
+@font-face {
+    font-family: 'ABCGravity-SemiCondensed';
+    src: url('fonts/ABCGravity-SemiCondensed-Trial.woff2') format('woff2'),
+         url('fonts/ABCGravity-SemiCondensed-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
