@@ -1,11 +1,14 @@
 const swiper = new Swiper('.swiper-use-cases', {
     // Optional parameters
     loop: true,
-
     // If we need pagination
     pagination: {
         el: '.swiper-pagination',
         clickable: true,
+    },
+    autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
     },
 });
 
@@ -17,7 +20,7 @@ const swiperTeam = new Swiper(".swiper-team", {
             slidesPerView: 2,
             spaceBetween: 20,
         },
-        1024: {
+        1400: {
             slidesPerView: 3,
             spaceBetween: 50,
         },
