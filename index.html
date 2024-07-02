@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/theme.css">
 
     <script src="js/s.js"></script>
-    
+ 
 </head>
 <body>
     <nav>
@@ -224,7 +224,11 @@
         </div>
 
         <div class="science-thumb-wrapper">
-            <img src="img/thumb-up-v1.png">
+            <picture>
+                <source srcset="img/thumb-up-v1-desktop.png" media="(min-width: 1400px)">
+                <source srcset="img/thumb-up-tab.png" media="(min-width: 992px)">
+                <img src="img/thumb-up-v1.png" alt="Thumb Up">
+            </picture>
         </div>
 
         <div class="bottom-2-flow-wrapper">
