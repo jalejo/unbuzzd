@@ -602,10 +602,10 @@ ul.list-menu-wrapper li ul li.list-menu__item {
 
 .bottom-flow-wrapper {
     width: 100%;
-    height: 21rem;
+    height: 8rem;
     overflow: hidden;
     position: absolute;
-    bottom: -18rem;
+    bottom: -7rem;
     left: 0px;
 }
 
@@ -620,10 +620,10 @@ ul.list-menu-wrapper li ul li.list-menu__item {
 
 .bottom-2-flow-wrapper {
     width: 100%;
-    height: 21rem;
+    height: 8rem;
     overflow: hidden;
     position: absolute;
-    bottom: -13rem;
+    bottom: -7rem;
     left: 0px;
 }
 
@@ -879,6 +879,17 @@ ul.list-menu-wrapper li ul li.list-menu__item {
     .top-flow-lime {
         transform: scaleY(1.35) rotate(2deg);
     }
+
+    .bottom-flow-wrapper {
+        height: 21rem;
+        bottom: -18rem;
+    }
+
+    .bottom-2-flow-wrapper {
+        height: 21rem;
+        bottom: -13rem;
+    }
+
 }
 
 @media (min-width: 1400px) {
